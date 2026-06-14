@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @li-2132.
+- 👋 Hi, I’m Donny.
 - 👀 I’m interested in DL, ML, CV, and Architecture.
 - 🌱 I’m currently learning CV, NLP, Data Prefetching
 - 💞️ I’m looking to collaborate on Cache Data Prefetching Research.
